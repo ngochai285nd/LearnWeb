@@ -1,0 +1,13 @@
+#first-heading{
+    color: red;
+    font-size: 50px;
+}
+#second-heading{
+    color: blue;
+    font-size: 80px;
+    font-style: italic;
+}
+.third-heading{
+    color: blueviolet;
+    font-size: 30px;
+}
